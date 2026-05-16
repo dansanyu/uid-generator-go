@@ -1,10 +1,10 @@
 package generator
 
 import (
+	"github.com/dansanyu/uid-generator-go/util"
 	"strconv"
 	"sync"
 	"time"
-	"uid-generator-go/util"
 )
 
 type BaseGenerator struct {

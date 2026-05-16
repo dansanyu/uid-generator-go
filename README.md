@@ -1,4 +1,4 @@
-# Uid-Generator-GO
+# github.com/dansanyu/uid-generator-go
 
 A Go version of [Uid-Generator](https://github.com/baidu/uid-generator) ,
 a [Snowflake](https://github.com/twitter-archive/snowflake) based unique ID generator.
@@ -23,7 +23,7 @@ All code logic is the same as the Java version, but the following differences:
 ## Usage
 
 ```go
-import "github.com/FAWC438/uid-generator-go"
+import "github.com/FAWC438/github.com/dansanyu/uid-generator-go"
 
 ...
 ```
@@ -35,7 +35,7 @@ package test
 
 import (
 	"fmt"
-	"uid-generator-go/generator"
+	"github.com/dansanyu/uid-generator-go/generator"
 )
 
 func Test() {

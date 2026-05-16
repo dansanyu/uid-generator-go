@@ -1,9 +1,9 @@
 package buffer
 
 import (
+	"github.com/dansanyu/uid-generator-go/util"
 	"strconv"
 	"sync"
-	"uid-generator-go/util"
 )
 
 var startPoint int64 = -1

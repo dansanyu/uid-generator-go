@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"uid-generator-go/generator"
+	"github.com/dansanyu/uid-generator-go/generator"
 )
 
 func Test() {
