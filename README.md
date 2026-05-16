@@ -23,7 +23,7 @@ All code logic is the same as the Java version, but the following differences:
 ## Usage
 
 ```go
-import "github.com/FAWC438/github.com/dansanyu/uid-generator-go"
+import "github.com/dansanyu/uid-generator-go"
 
 ...
 ```
